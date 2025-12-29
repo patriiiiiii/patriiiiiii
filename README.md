@@ -81,42 +81,94 @@ Análisis de datos, visualización, Machine Learning y redes neuronales con Tens
 
 ## 🛠️ Habilidades Técnicas
 
-### 💻 Desarrollo de Software
+### 💻 Lenguajes de Programación
 - Python
-- Programación estructurada y orientada a objetos
-- Automatización de procesos
-- Git & GitHub
-
-### 📊 Data & Analytics
-- SQL
-- Power BI
-- Tableau
-- Looker Studio
-- Excel / Google Sheets
-
-### 🤖 Inteligencia Artificial
-- TensorFlow
-- Redes Neuronales
-- Análisis exploratorio de datos
-- Modelado predictivo
-
-### 🖧 IT & Sistemas
-- Infraestructura IT
-- Monitorización
-- Sistemas y redes
-- Gestión de incidencias
+- Java
+- C#
+- JavaScript
+- Visual Basic
+- R
+- Solidity
 
 ---
 
-### ⚙️ GitHub Analytics
+### 🤖 Inteligencia Artificial & Machine Learning
+- TensorFlow
+- PyTorch
+- scikit-learn
+- Keras
+- Pandas
+- NumPy
+- SciPy
+- OpenCV
+- NLTK
+- spaCy
+- Transformers
 
-<p align="center">
-<a href="https://github.com/patriiiiiii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=patriiiiiii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=patriiiiiii&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+---
 
+### 🌐 Desarrollo Web & Software
+- React
+- Node.js
+- Flask
+- FastAPI
+- WPF (.NET)
+- HTML
+- CSS
+- Vite
+- Tailwind
+
+---
+
+### 🔄 Automatización & Data Pipelines
+- n8n
+- Make
+- Power Automate
+- Zapier
+- Apache Airflow
+
+---
+
+### 🗄️ Bases de Datos
+- MySQL
+- MongoDB
+- SQL Server
+- Oracle SQL
+- Hive
+- Impala
+- Neo4j
+
+---
+
+### ☁️ Cloud & Big Data
+- AWS
+- Azure
+- Docker
+- Hadoop
+- Cloudera
+- Apache Pig
+
+---
+
+### 📊 Análisis y Visualización de Datos
+- Power BI
+- Tableau
+- Qlik
+- Seaborn
+- Matplotlib
+
+---
+
+### 🧰 Herramientas de Desarrollo
+- Git & GitHub
+- Docker
+- VS Code
+- PyCharm
+- Jupyter Notebook
+- Anaconda
+- Poetry
+- pip / conda / venv
+  
 ---
 
 ## 📬 Contacto
