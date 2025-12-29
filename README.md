@@ -1,6 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Patricia Cambronero 👋</h1>
-<h3 align="center">Técnica de Redes | Analista de Datos & IA en transición</h3>
+<h3 align="center">
+Técnica de Redes | Desarrolladora de Software | Analista de Datos & IA
+</h3>
 </div>
 
 <img src="https://i.imgur.com/Wskj8cn.jpeg" alt="banner">
@@ -22,23 +24,26 @@
 
 ## 🧠 Sobre mí
 
-- 🖧 **Técnica de Redes** con experiencia en infraestructura IT, sistemas y monitorización  
-- 📊 **Analista de Datos e Inteligencia Artificial** en formación y transición profesional  
-- 🤖 Interesada en **Data Analytics, Machine Learning y automatización**
-- 📈 Apasionada por **transformar datos en información útil**
-- 🚀 Buscando crecer hacia un rol de **Data Analyst / AI**
+Soy **Técnica de Redes** con experiencia en infraestructura IT, sistemas y operaciones, y actualmente me encuentro en una **transición profesional hacia el Desarrollo de Software, el Análisis de Datos y la Inteligencia Artificial**.
 
-Actualmente combino la **visión operativa de sistemas** con la **capa analítica basada en datos**, lo que me permite entender los problemas técnicos de principio a fin.
+Mi perfil combina:
+- 🖧 **Conocimiento sólido de sistemas y redes**
+- 💻 **Desarrollo de software y automatización**
+- 📊 **Análisis de datos y modelado**
+- 🤖 **Machine Learning y redes neuronales**
+
+Me interesa especialmente crear **soluciones software eficientes**, automatizar procesos, trabajar con datos reales y aplicar **IA para resolver problemas técnicos y de negocio**.  
+Busco crecer profesionalmente en roles como **Desarrolladora de Software, Data Analyst o posiciones relacionadas con IA**.
 
 ---
 
 ## 💼 Experiencia
 
-**Técnica de Redes**  
-- Gestión de incidencias  
-- Monitorización de sistemas  
-- Operaciones IT e infraestructura  
-- Soporte técnico y redes  
+**Técnica de Redes**
+- Gestión y resolución de incidencias
+- Monitorización de sistemas
+- Infraestructura IT y operaciones
+- Soporte técnico y redes
 
 ---
 
@@ -47,25 +52,25 @@ Actualmente combino la **visión operativa de sistemas** con la **capa analític
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📊 Case Studies – Data Analytics</h3>
+<h3 align="center">💻 Desarrollo & Automatización</h3>
 <div align="center">
-<a href="https://www.notion.so/2cb1d1269eb981f19b53cadea470daac?pvs=21" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Proyectos-Notion-black?style=for-the-badge&logo=notion">
+<a href="https://github.com/patriiiiiii" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20Repositorios-GitHub-black?style=for-the-badge&logo=github">
 </a>
 <p>
-Análisis de datos, visualización, métricas de negocio y casos prácticos aplicados.
+Proyectos en Python, automatización, lógica de negocio y bases de desarrollo de software.
 </p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">🤖 Proyectos de IA & Machine Learning</h3>
+<h3 align="center">📊 Data & IA</h3>
 <div align="center">
-<a href="https://github.com/patriiiiiii" target="_blank">
-<img src="https://img.shields.io/badge/Repositorios-GitHub-black?style=for-the-badge&logo=github">
+<a href="https://www.notion.so/2cb1d1269eb981f19b53cadea470daac?pvs=21" target="_blank">
+<img src="https://img.shields.io/badge/Case%20Studies-Notion-black?style=for-the-badge&logo=notion">
 </a>
 <p>
-Modelado de datos, redes neuronales, TensorFlow, Python y aprendizaje automático.
+Análisis de datos, visualización, Machine Learning y redes neuronales con TensorFlow.
 </p>
 </div>
 </td>
@@ -76,26 +81,26 @@ Modelado de datos, redes neuronales, TensorFlow, Python y aprendizaje automátic
 
 ## 🛠️ Habilidades Técnicas
 
-**Data & Analytics**
+### 💻 Desarrollo de Software
 - Python
+- Programación estructurada y orientada a objetos
+- Automatización de procesos
+- Git & GitHub
+
+### 📊 Data & Analytics
 - SQL
 - Power BI
 - Tableau
 - Looker Studio
 - Excel / Google Sheets
 
-**IA & Machine Learning**
+### 🤖 Inteligencia Artificial
 - TensorFlow
 - Redes Neuronales
 - Análisis exploratorio de datos
 - Modelado predictivo
 
-**Herramientas**
-- Git & GitHub
-- Notion
-- PowerPoint / Google Slides
-
-**IT & Redes**
+### 🖧 IT & Sistemas
 - Infraestructura IT
 - Monitorización
 - Sistemas y redes
