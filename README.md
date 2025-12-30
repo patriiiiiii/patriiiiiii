@@ -5,7 +5,7 @@ Técnica de Redes | Desarrolladora de Software | Analista de Datos & IA
 </h3>
 </div>
 
-<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/4935a52d-4367-4efb-9226-295e2dcc3b07" />
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/f5eb1e12-775e-4865-b12b-fd7157c4c66f" />
 
 ---
 
@@ -51,29 +51,50 @@ Busco crecer profesionalmente en roles como **Desarrolladora de Software, Data A
 
 <table>
 <tr>
+
 <td width="50%">
-<h3 align="center">💻 Desarrollo & Automatización</h3>
+<h3 align="center">🧠 Clasificación de ropa con Redes Neuronales</h3>
+
 <div align="center">
-<a href="https://github.com/patriiiiiii" target="_blank">
-<img src="https://img.shields.io/badge/Ver%20Repositorios-GitHub-black?style=for-the-badge&logo=github">
+<a href="https://github.com/patriiiiiii/fashion-mnist-classification" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-GitHub-black?style=for-the-badge&logo=github">
 </a>
-<p>
-Proyectos en Python, automatización, lógica de negocio y bases de desarrollo de software.
-</p>
 </div>
+
+<p>
+Proyecto de <strong>Deep Learning</strong> enfocado en la clasificación de imágenes de ropa utilizando el dataset <strong>Fashion MNIST</strong>.
+</p>
+
+<ul>
+<li>Red neuronal con TensorFlow y Keras</li>
+<li>Preprocesamiento y normalización de imágenes</li>
+<li>Accuracy ~88 % en conjunto de test</li>
+<li>Preparación para despliegue mediante API Flask</li>
+</ul>
 </td>
 
 <td width="50%">
-<h3 align="center">📊 Data & IA</h3>
+<h3 align="center">📊 Análisis de Rendimiento de Ventas – Power BI</h3>
+
 <div align="center">
-<a href="https://www.notion.so/2cb1d1269eb981f19b53cadea470daac?pvs=21" target="_blank">
-<img src="https://img.shields.io/badge/Case%20Studies-Notion-black?style=for-the-badge&logo=notion">
+<a href="https://github.com/patriiiiiii/powerbi-sales-performance" target="_blank">
+<img src="https://img.shields.io/badge/DASHBOARD-Power%20BI-yellow?style=for-the-badge&logo=powerbi">
 </a>
-<p>
-Análisis de datos, visualización, Machine Learning y redes neuronales con TensorFlow.
-</p>
 </div>
+
+<p>
+Informe ejecutivo desarrollado en <strong>Power BI</strong> para analizar ventas y rentabilidad mediante comparativas
+<strong>AHF vs AAHF</strong>.
+</p>
+
+<ul>
+<li>KPIs de ventas y beneficio bruto</li>
+<li>Análisis temporal y geográfico</li>
+<li>Segmentación por tipo de producto</li>
+<li>Insights orientados a toma de decisiones</li>
+</ul>
 </td>
+
 </tr>
 </table>
 
