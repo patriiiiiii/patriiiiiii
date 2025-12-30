@@ -5,7 +5,7 @@ Técnica de Redes | Desarrolladora de Software | Analista de Datos & IA
 </h3>
 </div>
 
-<img src="https://i.imgur.com/Wskj8cn.jpeg" alt="banner">
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/f367a517-7fbb-4ce1-9972-bddb6a083656" />
 
 ---
 
