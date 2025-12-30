@@ -56,7 +56,7 @@ Busco crecer profesionalmente en roles como **Desarrolladora de Software, Data A
 <h3 align="center">🧠 Clasificación de ropa con Redes Neuronales</h3>
 
 <div align="center">
-<a href="https://github.com/patriiiiiii/fashion-mnist-classification" target="_blank">
+<a href="https://github.com/patriiiiiii/fashion_mnist" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-GitHub-black?style=for-the-badge&logo=github">
 </a>
 </div>
@@ -77,14 +77,14 @@ Proyecto de <strong>Deep Learning</strong> enfocado en la clasificación de imá
 <h3 align="center">📊 Análisis de Rendimiento de Ventas – Power BI</h3>
 
 <div align="center">
-<a href="https://github.com/patriiiiiii/powerbi-sales-performance" target="_blank">
+<a href="https://github.com/patriiiiiii/powerbi-informe-rendimiento" target="_blank">
 <img src="https://img.shields.io/badge/DASHBOARD-Power%20BI-yellow?style=for-the-badge&logo=powerbi">
 </a>
 </div>
 
 <p>
 Informe ejecutivo desarrollado en <strong>Power BI</strong> para analizar ventas y rentabilidad mediante comparativas
-<strong>AHF vs AAHF</strong>.
+<strong>año hasta la fecha vs año antes de la fecha</strong>.
 </p>
 
 <ul>
