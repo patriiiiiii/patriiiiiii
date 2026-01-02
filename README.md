@@ -96,7 +96,54 @@ Informe ejecutivo desarrollado en <strong>Power BI</strong> para analizar ventas
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%">
+<h3 align="center">✍️ Reconocimiento de Letras Manuscritas (EMNIST)</h3>
+
+<div align="center">
+<a href="https://github.com/patriiiiiii/emnist_cnn" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-GitHub-black?style=for-the-badge&logo=github">
+</a>
+</div>
+
+<p>
+Proyecto de <strong>Deep Learning</strong> para el reconocimiento automático de caracteres alfabéticos manuscritos utilizando el dataset <strong>EMNIST Letters</strong>.
+</p>
+
+<ul>
+<li>Red neuronal convolucional (CNN) con TensorFlow y Keras</li>
+<li>Data augmentation y técnicas de regularización</li>
+<li>Precisión del modelo ~93.4 % en conjunto de test</li>
+<li>Visualización de resultados y matriz de confusión</li>
+</ul>
+</td>
+
+<td width="50%">
+<h3 align="center">🚀 Proyecto Futuro / En Desarrollo</h3>
+
+<div align="center">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-GitHub-lightgrey?style=for-the-badge&logo=github">
+</a>
+</div>
+
+<p>
+Aquí puedes describir un proyecto que estés desarrollando o un placeholder para próximos trabajos.
+</p>
+
+<ul>
+<li>Descripción breve del proyecto</li>
+<li>Stack de tecnologías</li>
+<li>Estado actual / progreso</li>
+<li>Enlace a repositorio cuando esté disponible</li>
+</ul>
+</td>
+
+</tr>
 </table>
+
 
 ---
 
