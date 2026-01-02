@@ -120,27 +120,6 @@ Proyecto de <strong>Deep Learning</strong> para el reconocimiento automático de
 </ul>
 </td>
 
-<td width="50%">
-<h3 align="center">🚀 Proyecto Futuro / En Desarrollo</h3>
-
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-GitHub-lightgrey?style=for-the-badge&logo=github">
-</a>
-</div>
-
-<p>
-Aquí puedes describir un proyecto que estés desarrollando o un placeholder para próximos trabajos.
-</p>
-
-<ul>
-<li>Descripción breve del proyecto</li>
-<li>Stack de tecnologías</li>
-<li>Estado actual / progreso</li>
-<li>Enlace a repositorio cuando esté disponible</li>
-</ul>
-</td>
-
 </tr>
 </table>
 
