@@ -37,6 +37,21 @@ Busco crecer profesionalmente en roles como **Desarrolladora de Software, Data A
 
 ---
 
+## 🌐 Portfolio Personal
+
+<p align="center">
+<a href="https://skillful-help-546.notion.site/Patricia-Cambronero-Morales-2cb1d1269eb980d3bb04c32f71dcaa00" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20Portfolio-Notion-black?style=for-the-badge&logo=notion">
+</a>
+</p>
+
+<p align="center">
+Portfolio profesional donde presento proyectos de <strong>Desarrollo de Software, Análisis de Datos e Inteligencia Artificial</strong>,
+con explicaciones detalladas, visualizaciones y enfoque práctico orientado a negocio y tecnología.
+</p>
+
+---
+
 ## 💼 Experiencia
 
 **Técnica de Redes**
