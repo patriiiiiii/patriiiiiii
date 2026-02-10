@@ -135,9 +135,29 @@ Proyecto de <strong>Deep Learning</strong> para el reconocimiento automático de
 </ul>
 </td>
 
+<td width="50%">
+<h3 align="center">🍫 Análisis de Ventas de Chocolates</h3>
+
+<div align="center">
+<a href="https://github.com/patriiiiiii/chocolate_sales" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-GitHub-black?style=for-the-badge&logo=github">
+</a>
+</div>
+
+<p>
+Proyecto de <strong>Análisis de Datos</strong> sobre ventas de chocolates en distintos países, usando Python, Pandas y visualizaciones con Matplotlib y Seaborn.
+</p>
+
+<ul>
+<li>Análisis exploratorio de datos (EDA) y limpieza de dataset</li>
+<li>Visualización de ventas por país, producto y cantidad de cajas enviadas</li>
+<li>Gráficos estadísticos: histogramas, boxplots y barras</li>
+<li>Insights sobre patrones de ventas y distribución de montos</li>
+</ul>
+</td>
+
 </tr>
 </table>
-
 
 ---
 
