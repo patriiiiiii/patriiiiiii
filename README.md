@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Patricia Cambronero 👋</h1>
 <h3 align="center">
-Técnica de Redes | Desarrolladora de Software | Analista de Datos & IA
+Data Engineer | Big Data | Inteligencia Artificial
 </h3>
 </div>
 
@@ -24,16 +24,18 @@ Técnica de Redes | Desarrolladora de Software | Analista de Datos & IA
 
 ## 🧠 Sobre mí
 
-Soy **Técnica de Redes** con experiencia en infraestructura IT, sistemas y operaciones, y actualmente me encuentro en una **transición profesional hacia el Desarrollo de Software, el Análisis de Datos y la Inteligencia Artificial**.
+Soy **Data Engineer** con experiencia en ingeniería de datos, Big Data, cloud y desarrollo de soluciones tecnológicas. Actualmente trabajo en el desarrollo de **data flows y pipelines de datos** utilizando principalmente **Scala, PySpark y SQL**, trabajando con servicios cloud de **AWS**.
 
 Mi perfil combina:
-- 🖧 **Conocimiento sólido de sistemas y redes**
-- 💻 **Desarrollo de software y automatización**
-- 📊 **Análisis de datos y modelado**
-- 🤖 **Machine Learning y redes neuronales**
 
-Me interesa especialmente crear **soluciones software eficientes**, automatizar procesos, trabajar con datos reales y aplicar **IA para resolver problemas técnicos y de negocio**.  
-Busco crecer profesionalmente en roles como **Desarrolladora de Software, Data Analyst o posiciones relacionadas con IA**.
+* ⚙️ **Ingeniería de datos y procesamiento de grandes volúmenes de información**
+* 🐍 **Python, Scala y SQL**
+* ⚡ **Apache Spark y PySpark**
+* ☁️ **Cloud y servicios AWS**
+* 🤖 **Inteligencia Artificial y Machine Learning**
+* 💻 **Desarrollo de software y automatización**
+
+Me interesa especialmente trabajar en proyectos relacionados con **Data Engineering, Big Data, Cloud e Inteligencia Artificial**, desarrollando soluciones eficientes y aplicando la tecnología para resolver problemas reales.
 
 ---
 
@@ -49,16 +51,6 @@ Busco crecer profesionalmente en roles como **Desarrolladora de Software, Data A
 Portfolio profesional donde presento proyectos de <strong>Desarrollo de Software, Análisis de Datos e Inteligencia Artificial</strong>,
 con explicaciones detalladas, visualizaciones y enfoque práctico orientado a negocio y tecnología.
 </p>
-
----
-
-## 💼 Experiencia
-
-**Técnica de Redes**
-- Gestión y resolución de incidencias
-- Monitorización de sistemas
-- Infraestructura IT y operaciones
-- Soporte técnico y redes
 
 ---
 
@@ -163,93 +155,97 @@ Proyecto de <strong>Análisis de Datos</strong> sobre ventas de chocolates en di
 
 ## 🛠️ Habilidades Técnicas
 
-### 💻 Lenguajes de Programación
-- Python
-- Java
-- C#
-- JavaScript
-- Visual Basic
-- R
-- Solidity
+### 💻 Lenguajes
 
----
+* Scala
+* Python
+* SQL
+* Java
+* C#
+* JavaScript
+* Visual Basic
+* R
+* Solidity
 
-### 🤖 Inteligencia Artificial & Machine Learning
-- TensorFlow
-- PyTorch
-- scikit-learn
-- Keras
-- Pandas
-- NumPy
-- SciPy
-- OpenCV
-- NLTK
-- spaCy
-- Transformers
+### ⚡ Big Data & Data Engineering
 
----
+* Apache Spark
+* PySpark
+* Hadoop
+* Hive
+* Impala
+* ETL
+* Data Flows
+* Data Pipelines
 
-### 🌐 Desarrollo Web & Software
-- React
-- Node.js
-- Flask
-- FastAPI
-- WPF (.NET)
-- HTML
-- CSS
-- Vite
-- Tailwind
+### ☁️ Cloud & Data Platform
 
----
-
-### 🔄 Automatización & Data Pipelines
-- n8n
-- Make
-- Power Automate
-- Zapier
-- Apache Airflow
-
----
+* AWS
+* Amazon CloudWatch
+* Amazon SageMaker
+* Microsoft Azure
+* Azure Data Factory
+* Azure Databricks
+* Azure Data Lake
+* Docker
 
 ### 🗄️ Bases de Datos
-- MySQL
-- MongoDB
-- SQL Server
-- Oracle SQL
-- Hive
-- Impala
-- Neo4j
 
----
+* MySQL
+* MongoDB
+* SQL Server
+* Oracle SQL
+* Hive
+* Impala
+* Neo4j
 
-### ☁️ Cloud & Big Data
-- AWS
-- Azure
-- Docker
-- Hadoop
-- Cloudera
-- Apache Pig
+### 🤖 Inteligencia Artificial & Machine Learning
 
----
+* TensorFlow
+* PyTorch
+* Keras
+* scikit-learn
+* Pandas
+* NumPy
+* Transformers
 
-### 📊 Análisis y Visualización de Datos
-- Power BI
-- Tableau
-- Qlik
-- Seaborn
-- Matplotlib
+### 🌐 Desarrollo Web & Software
 
----
+* React
+* Node.js
+* Flask
+* FastAPI
+* WPF (.NET)
+* HTML
+* CSS
+* Vite
+* Tailwind
 
-### 🧰 Herramientas de Desarrollo
-- Git & GitHub
-- Docker
-- VS Code
-- PyCharm
-- Jupyter Notebook
-- Anaconda
-- Poetry
-- pip / conda / venv
+### 🔄 Automatización
+
+* n8n
+* Make
+* Power Automate
+* Zapier
+* Apache Airflow
+
+### 📊 Análisis y Visualización
+
+* Power BI
+* Tableau
+* Qlik
+* Matplotlib
+* Seaborn
+
+### 🧰 Herramientas
+
+* Git & GitHub
+* IntelliJ
+* VS Code
+* PyCharm
+* Jupyter Notebook
+* Anaconda
+* Poetry
   
 ---
 
